@@ -1,0 +1,2 @@
+# Build tool used only to create the self-contained Windows distribution.
+pyinstaller>=6.12,<7
